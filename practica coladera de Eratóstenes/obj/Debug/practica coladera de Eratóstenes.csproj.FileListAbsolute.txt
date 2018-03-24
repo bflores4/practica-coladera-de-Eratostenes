@@ -1,0 +1,20 @@
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\bin\Debug\practica coladera de Eratóstenes.exe.config
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\bin\Debug\practica coladera de Eratóstenes.exe
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\bin\Debug\practica coladera de Eratóstenes.pdb
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.csprojResolveAssemblyReference.cache
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica_coladera_de_Eratóstenes.Form1.resources
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica_coladera_de_Eratóstenes.Properties.Resources.resources
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.csproj.GenerateResource.Cache
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.csproj.CoreCompileInputs.cache
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.exe
+c:\users\girom\documents\visual studio 2017\Projects\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.pdb
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\bin\Debug\practica coladera de Eratóstenes.exe.config
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\bin\Debug\practica coladera de Eratóstenes.exe
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\bin\Debug\practica coladera de Eratóstenes.pdb
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.csprojResolveAssemblyReference.cache
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica_coladera_de_Eratóstenes.Form1.resources
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica_coladera_de_Eratóstenes.Properties.Resources.resources
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.csproj.GenerateResource.Cache
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.csproj.CoreCompileInputs.cache
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.exe
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\CLASSROOM\practica coladera de Eratóstenes\practica coladera de Eratóstenes\obj\Debug\practica coladera de Eratóstenes.pdb
